@@ -1,6 +1,7 @@
 package helloworld;
 
-/* 복숭아 농장 영상 기대되욯ㅎ */
+/* 엽떡ㅂ먹는다 엽떡먹는다 */
+
 public class HelloWorld {
 
 	public static void main(String[] args) {
